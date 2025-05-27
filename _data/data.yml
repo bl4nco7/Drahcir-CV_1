@@ -62,16 +62,17 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Resumo
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Graduado em Ciências Matemáticas com uma sólida formação em álgebra, cálculo diferencial, 
+    integral e vetorial, além de geometria básica e diferencial. Possuo conhecimento avançado 
+    em programação com R: e Python, e experiência em análise de dados e modelagem matemática. 
+    Com forte capacidade para resolver problemas complexos, apliquei minhas habilidades em otimização 
+    matemática e métodos numéricos em diversas áreas, desde pesquisas acadêmicas até projetos de análise 
+    de dados na indústria. Meu objetivo é continuar desenvolvendo minhas habilidades e aplicar meu 
+    conhecimento para resolver desafios interdisciplinares em matemática e ciência de dados. 
 education:
-  title: Education
+  title: Educação
   info:
   - degree: MSc in Computer Science
     university: University of London
