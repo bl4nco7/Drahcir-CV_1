@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: assets/CV/CV-DABG(Simples).pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
@@ -151,7 +151,7 @@ certifications:
       Details about cert. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
       Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
+      Aenean fermentum, felis vulputate suscipit accumsan, 
       sem enim bibendum augue, sed convallis arcu lacus at dui.
       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
