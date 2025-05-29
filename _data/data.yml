@@ -207,10 +207,10 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Métrica assimétrica de Fubini-Study na grassmanniana total
+    link: "https://repositorio.ufba.br/handle/ri/37473"
+    authors: Drahcir A. Blanco G. 
+    conference: Dissertação de mestrado, 2023
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
