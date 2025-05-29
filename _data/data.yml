@@ -118,7 +118,7 @@ experiences:
         - Orientador: Prof. Clavel Quintana
         - Dissertação: Método do Ponto Proximal para Programação Multiobjetivo em Variedade de Hadamard
 certifications:
-  title: Certifications
+  title: Educação Complementar
   list:
   - name: CV Builder
     start: 2020
@@ -244,23 +244,14 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Python
     level: 60%
+
+  - name: R
+    level: 98%
+
+  - name: LaTex
+    level: 98%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
