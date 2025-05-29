@@ -116,7 +116,7 @@ experiences:
     company: Universidad Centroccidental Lisandro Alvarado (UCLA), Lara, Venezuela
     details: |
         - Orientador: Prof. Clavel Quintana
-        - Dissertação: Método do Ponto Proximal para Programação Multiobjetivo em Variedade de Hadamard
+        - TCC: Método do Ponto Proximal para Programação Multiobjetivo em Variedades de Hadamard
 certifications:
   title: Educação Complementar
   list:
@@ -241,7 +241,7 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades &amp; Proficiência
 
   toolset:
   - name: Python
